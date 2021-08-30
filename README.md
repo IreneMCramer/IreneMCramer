@@ -2,7 +2,7 @@
 - 👀 I’m interested in API management, integration, UX, data management, & machine learning
 - 🌱 I’m currently learning architecture & integration patterns
 - 💞️ I’m looking to collaborate on open APIs
-- 📫 How to reach me via cram2202 @ gmx.net or LinkedIn.
+- 📫 How to reach me via cram2202@gmx.net or LinkedIn.
 
 <!---
 IreneMCramer/IreneMCramer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
